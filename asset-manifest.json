@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-fetch-search-react/static/css/main.de0f850d.chunk.css",
+    "main.js": "/simple-fetch-search-react/static/js/main.1f68d3bb.chunk.js",
+    "main.js.map": "/simple-fetch-search-react/static/js/main.1f68d3bb.chunk.js.map",
+    "runtime~main.js": "/simple-fetch-search-react/static/js/runtime~main.8e714983.js",
+    "runtime~main.js.map": "/simple-fetch-search-react/static/js/runtime~main.8e714983.js.map",
+    "static/js/2.a4cf3094.chunk.js": "/simple-fetch-search-react/static/js/2.a4cf3094.chunk.js",
+    "static/js/2.a4cf3094.chunk.js.map": "/simple-fetch-search-react/static/js/2.a4cf3094.chunk.js.map",
+    "index.html": "/simple-fetch-search-react/index.html",
+    "precache-manifest.782a0123cadb6b4dbda4fd8976571c27.js": "/simple-fetch-search-react/precache-manifest.782a0123cadb6b4dbda4fd8976571c27.js",
+    "service-worker.js": "/simple-fetch-search-react/service-worker.js",
+    "static/css/main.de0f850d.chunk.css.map": "/simple-fetch-search-react/static/css/main.de0f850d.chunk.css.map",
+    "static/media/logo.svg": "/simple-fetch-search-react/static/media/logo.5d5d9eef.svg"
+  }
+}
